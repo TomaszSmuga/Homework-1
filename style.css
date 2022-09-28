@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.navbar{
+    background-color: rgb(42, 40, 40);
+    }
+
+.navbar h3{
+    text-decoration: none;
+}
+
+    .navbar ul{
+    display: flex;
+    flex-grow: 3;
+}
