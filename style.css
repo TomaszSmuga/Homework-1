@@ -7,11 +7,19 @@
     background-color: rgb(42, 40, 40);
     }
 
-.navbar h3{
+.navbar a{
     text-decoration: none;
 }
 
-    .navbar ul{
+.navbar ul{
     display: flex;
     flex-grow: 3;
+}
+
+.navbar li{
+    list-style: none;
+}
+
+.navbar li a{
+    text-decoration: none;
 }
